@@ -20,6 +20,22 @@ A simple, fun memory card matching game built with HTML, CSS, and JavaScript.
 5. Match all pairs to win the game
 6. Click "Play Again" to restart the game at any time
 
+## Installation and Setup
+
+1. Clone this repository to your local machine
+
+git clone https://github.com/YourUsername/memory-card-game.git
+
+2. Navigate to the project directory
+
+cd memory-card-game
+
+3. Open the index.html file in your browser or use a local development server
+
+# Live Demo 
+Check out the live demo: [Memory Card Game](https://xdaniellet.github.io/memory-card/)
+
+
 ## Future Enhancements
 - Add difficulty levels
 - Implement a timer
